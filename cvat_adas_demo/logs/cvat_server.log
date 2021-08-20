@@ -1,0 +1,201 @@
+[2021-08-13 14:48:37,924] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 14:52:11,212] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 14:55:46,848] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 16:42:20,535] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 16:56:34,876] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\settings.py changed, reloading.
+[2021-08-13 16:56:40,482] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 16:56:43,996] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\settings.py changed, reloading.
+[2021-08-13 16:56:46,543] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 16:56:53,099] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\settings.py changed, reloading.
+[2021-08-13 16:56:54,387] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 16:57:24,117] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\env\Lib\site-packages\django\db\models\__init__.py changed, reloading.
+[2021-08-13 16:57:25,275] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 17:01:58,079] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\env\Lib\site-packages\django\db\models\__init__.py changed, reloading.
+[2021-08-13 17:02:06,891] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 17:30:29,026] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\settings.py changed, reloading.
+[2021-08-13 17:30:30,168] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 17:30:34,627] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\settings.py changed, reloading.
+[2021-08-13 17:30:35,507] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 17:30:41,063] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\settings.py changed, reloading.
+[2021-08-13 17:30:41,998] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 17:30:43,297] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\settings.py changed, reloading.
+[2021-08-13 17:30:44,182] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 17:30:45,519] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\settings.py changed, reloading.
+[2021-08-13 17:30:46,404] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 17:31:09,806] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\settings.py changed, reloading.
+[2021-08-13 17:31:10,694] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 17:31:13,027] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\settings.py changed, reloading.
+[2021-08-13 17:31:13,913] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 17:31:21,601] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\settings.py changed, reloading.
+[2021-08-13 17:31:22,674] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 17:31:30,291] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\settings.py changed, reloading.
+[2021-08-13 17:31:31,180] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 17:32:16,435] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\settings.py changed, reloading.
+[2021-08-13 17:32:17,575] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 17:32:18,898] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\settings.py changed, reloading.
+[2021-08-13 17:32:19,877] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 17:32:35,937] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\engine\models.py changed, reloading.
+[2021-08-13 17:32:36,963] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 17:32:51,878] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\engine\models.py changed, reloading.
+[2021-08-13 17:32:53,308] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 17:35:43,167] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 17:36:45,199] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\authentication\auth.py changed, reloading.
+[2021-08-13 17:36:46,294] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 17:37:46,708] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\settings.py changed, reloading.
+[2021-08-13 17:37:47,758] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 17:37:50,810] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\settings.py changed, reloading.
+[2021-08-13 17:37:51,885] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 17:38:05,755] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\settings.py changed, reloading.
+[2021-08-13 17:38:06,821] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 17:38:18,110] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\settings.py changed, reloading.
+[2021-08-13 17:38:19,212] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 17:39:07,732] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\settings.py changed, reloading.
+[2021-08-13 17:39:08,808] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 17:39:10,684] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\settings.py changed, reloading.
+[2021-08-13 17:39:11,815] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-13 17:52:38,058] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-16 09:56:04,737] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-16 10:23:14,505] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\dataset_repo\models.py changed, reloading.
+[2021-08-16 10:24:49,455] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-16 10:25:33,097] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\dataset_repo\models.py changed, reloading.
+[2021-08-16 10:25:41,011] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-16 10:54:15,108] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\dataset_manager\bindings.py changed, reloading.
+[2021-08-16 10:55:05,334] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-16 10:56:00,745] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\dataset_manager\bindings.py changed, reloading.
+[2021-08-16 10:56:04,029] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-16 10:56:21,895] INFO django.utils.autoreload: D:\PYTHON\cvat-adas\cvat_adas_demo\cvat_adas_demo\dataset_manager\bindings.py changed, reloading.
+[2021-08-16 10:56:25,326] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-16 12:17:21,993] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-16 13:19:21,543] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-17 13:19:04,568] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-17 13:20:22,642] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-17 13:21:34,541] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-17 13:22:19,542] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-17 13:23:05,485] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-17 13:24:04,839] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-17 13:30:28,568] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-17 13:33:42,932] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-17 13:36:36,074] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-17 13:38:16,185] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-17 13:39:09,188] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-17 13:40:05,046] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-17 13:41:07,148] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-17 13:41:59,412] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-17 13:42:54,876] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-17 14:00:06,523] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-17 14:02:04,835] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-17 15:34:08,922] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-17 16:55:48,769] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 12:26:04,230] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 12:30:55,908] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 12:34:06,366] INFO django.utils.autoreload: C:\Users\Keshav\Desktop\cvat_adas-main\cvat_adas_demo\cvat_adas_demo\settings.py changed, reloading.
+[2021-08-18 12:34:36,664] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 12:35:02,907] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 12:39:35,222] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 12:45:15,453] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 13:22:20,515] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 13:23:59,232] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 13:24:43,934] INFO django.utils.autoreload: C:\Users\Keshav\Desktop\cvat_adas-main\cvat_adas_demo\cvat_adas_demo\dataset_manager\bindings.py changed, reloading.
+[2021-08-18 13:25:05,280] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 13:26:31,312] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 13:27:30,959] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 13:29:10,197] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 13:34:36,339] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 13:40:31,977] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 13:41:00,995] INFO django.utils.autoreload: C:\Users\Keshav\Desktop\cvat_adas-main\cvat_adas_demo\cvat_adas_demo\engine\media_extractors.py changed, reloading.
+[2021-08-18 13:41:15,965] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 13:41:31,426] INFO django.utils.autoreload: C:\Users\Keshav\Desktop\cvat_adas-main\cvat_adas_demo\cvat_adas_demo\engine\media_extractors.py changed, reloading.
+[2021-08-18 13:41:49,915] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 15:45:51,202] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 17:00:14,299] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 17:33:39,209] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 18:00:15,836] INFO django.utils.autoreload: C:\Users\Keshav\Desktop\cvat_adas-main\cvat_adas_demo\cvat_adas_demo\engine\media_extractors.py changed, reloading.
+[2021-08-18 18:00:18,905] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 18:19:03,633] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 18:22:36,672] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 18:24:58,838] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 18:29:30,368] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 18:31:07,252] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 18:31:57,881] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 18:32:43,575] INFO django.utils.autoreload: C:\Users\Keshav\Desktop\cvat_adas-main\cvat_adas_demo\cvat_adas_demo\engine\media_extractors.py changed, reloading.
+[2021-08-18 18:32:43,683] INFO django.utils.autoreload: C:\Users\Keshav\Desktop\cvat_adas-main\cvat_adas_demo\cvat_adas_demo\engine\media_extractors.py changed, reloading.
+[2021-08-18 18:32:49,229] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-18 18:32:49,349] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 09:48:56,484] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 09:53:41,752] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 09:53:51,231] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 10:02:21,304] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 10:02:56,806] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 10:05:13,031] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 10:07:29,051] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 10:10:33,633] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 10:12:01,010] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 10:13:14,403] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 10:14:34,951] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 10:16:04,614] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 10:16:56,714] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 10:18:06,992] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 10:20:38,702] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 10:22:32,121] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 10:23:46,120] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 10:24:35,631] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 10:25:36,335] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 10:26:15,721] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 10:27:27,112] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 10:28:48,592] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 10:29:38,897] INFO django.utils.autoreload: C:\Users\Keshav\Desktop\cvat_adas-main\cvat_adas_demo\cvat_adas_demo\engine\media_extractors.py changed, reloading.
+[2021-08-20 10:29:43,355] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 10:31:36,987] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 10:51:31,004] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 10:52:14,248] INFO django.utils.autoreload: C:\Users\Keshav\Desktop\cvat_adas-main\cvat_adas_demo\cvat_adas_demo\engine\serializers.py changed, reloading.
+[2021-08-20 10:52:18,899] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 10:52:26,123] INFO django.utils.autoreload: C:\Users\Keshav\Desktop\cvat_adas-main\cvat_adas_demo\cvat_adas_demo\engine\serializers.py changed, reloading.
+[2021-08-20 10:52:29,413] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 10:53:29,800] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 10:56:32,842] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 11:17:51,833] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 11:18:52,312] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 11:20:37,190] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 11:21:15,320] INFO django.utils.autoreload: C:\Users\Keshav\Desktop\cvat_adas-main\cvat_adas_demo\cvat_adas_demo\engine\media_extractors.py changed, reloading.
+[2021-08-20 11:21:31,319] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 11:35:00,308] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 11:43:29,482] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 11:44:36,747] INFO django.utils.autoreload: C:\Users\Keshav\Desktop\cvat_adas-main\cvat_adas_demo\cvat_adas_demo\engine\media_extractors.py changed, reloading.
+[2021-08-20 11:44:46,506] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 11:45:44,663] INFO django.utils.autoreload: C:\Users\Keshav\Desktop\cvat_adas-main\cvat_adas_demo\cvat_adas_demo\dataset_manager\formats\registry.py changed, reloading.
+[2021-08-20 11:45:52,761] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 11:55:16,668] INFO django.utils.autoreload: C:\Users\Keshav\Desktop\cvat_adas-main\cvat_adas_demo\cvat_adas_demo\dataset_manager\formats\datumaro\__init__.py changed, reloading.
+[2021-08-20 11:55:25,238] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 11:56:17,113] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 11:56:49,602] INFO django.utils.autoreload: C:\Users\Keshav\Desktop\cvat_adas-main\cvat_adas_demo\cvat_adas_demo\dataset_manager\formats\datumaro\__init__.py changed, reloading.
+[2021-08-20 11:56:57,739] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 11:58:34,756] INFO django.utils.autoreload: C:\Users\Keshav\Desktop\cvat_adas-main\cvat_adas_demo\cvat_adas_demo\engine\task.py changed, reloading.
+[2021-08-20 11:58:44,491] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 12:02:41,703] INFO django.utils.autoreload: C:\Users\Keshav\Desktop\cvat_adas-main\cvat_adas_demo\cvat_adas_demo\engine\views.py changed, reloading.
+[2021-08-20 12:02:56,732] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 12:03:48,716] INFO django.utils.autoreload: C:\Users\Keshav\Desktop\cvat_adas-main\cvat_adas_demo\cvat_adas_demo\authentication\decorators.py changed, reloading.
+[2021-08-20 12:03:55,287] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 12:08:52,719] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 12:11:23,550] INFO django.utils.autoreload: C:\Users\Keshav\Desktop\cvat_adas-main\cvat_adas_demo\cvat_adas_demo\training\apis.py changed, reloading.
+[2021-08-20 12:11:33,417] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 12:18:15,121] INFO django.utils.autoreload: C:\Users\Keshav\Desktop\cvat_adas-main\cvat_adas_demo\cvat_adas_demo\engine\models.py changed, reloading.
+[2021-08-20 12:18:23,256] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 12:19:18,119] INFO django.utils.autoreload: C:\Users\Keshav\Desktop\cvat_adas-main\cvat_adas_demo\cvat_adas_demo\settings.py changed, reloading.
+[2021-08-20 12:19:22,225] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 12:20:21,489] INFO django.utils.autoreload: C:\Users\Keshav\Desktop\cvat_adas-main\cvat_adas_demo\cvat_adas_demo\settings.py changed, reloading.
+[2021-08-20 12:20:25,992] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 12:20:58,085] INFO django.utils.autoreload: C:\Users\Keshav\Desktop\cvat_adas-main\cvat_adas_demo\cvat_adas_demo\training\apis.py changed, reloading.
+[2021-08-20 12:21:02,881] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 12:22:20,668] INFO django.utils.autoreload: C:\Users\Keshav\Desktop\cvat_adas-main\cvat_adas_demo\cvat_adas_demo\settings.py changed, reloading.
+[2021-08-20 12:22:24,633] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 12:31:07,433] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 12:40:30,388] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 12:54:09,600] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 13:13:51,398] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2021-08-20 13:14:50,304] WARNING django.request: Gone: /
+[2021-08-20 13:14:50,342] WARNING django.request: Gone: /
+[2021-08-20 13:14:50,366] WARNING django.server: "GET / HTTP/1.1" 410 0
+[2021-08-20 13:15:13,172] WARNING django.request: Gone: /
+[2021-08-20 13:15:13,188] WARNING django.request: Gone: /
+[2021-08-20 13:15:13,190] WARNING django.server: "GET / HTTP/1.1" 410 0
+[2021-08-20 15:22:39,546] INFO django.utils.autoreload: Watching for file changes with StatReloader
